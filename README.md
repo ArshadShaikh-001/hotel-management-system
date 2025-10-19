@@ -78,7 +78,7 @@ guests	Guest personal information
 bookings	Booking records
 staff	Staff login and details
 billing	Payment and invoices
-
+```
 🧑‍💻 Author
 Your Name
 📧 your.email@example.com
