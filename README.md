@@ -29,8 +29,10 @@ This system simplifies the management of **room bookings, guest check-ins/check-
 
 Follow these steps to set up the project locally:
 
-### Step 1️⃣ — Clone the Repository
+### Steps to Run
 ```bash
+Step 1️⃣ — Clone the Repository
+
 git clone https://github.com/yourusername/hotel-management-system.git
 
 Step 2️⃣ — Move to Server Directory
