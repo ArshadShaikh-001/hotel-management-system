@@ -76,3 +76,8 @@ guests	Guest personal information
 bookings	Booking records
 staff	Staff login and details
 billing	Payment and invoices
+
+🙋‍♀️ Author
+Arshad Shaikh
+GitHub: https://github.com/ArshadShaikh-001
+LinkedIn: https://www.linkedin.com/in/arshad-shaikh-911b71346/
